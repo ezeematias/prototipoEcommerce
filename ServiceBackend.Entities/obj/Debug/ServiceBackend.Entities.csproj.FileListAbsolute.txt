@@ -1,0 +1,12 @@
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\bin\Debug\ServiceBackend.Entities.dll.config
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\bin\Debug\ServiceBackend.Entities.dll
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\bin\Debug\ServiceBackend.Entities.pdb
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\bin\Debug\EntityFramework.dll
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\bin\Debug\EntityFramework.xml
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\obj\Debug\ServiceBackend.Entities.csproj.AssemblyReference.cache
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\obj\Debug\ServiceBackend.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\obj\Debug\ServiceBackend.Entities.csproj.CopyComplete
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\obj\Debug\ServiceBackend.Entities.dll
+C:\Users\ezequiel.unia\Desktop\EMU_ServiceBackend_01\ServiceBackend.Entities\obj\Debug\ServiceBackend.Entities.pdb

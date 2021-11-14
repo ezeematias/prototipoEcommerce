@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b41f2786-a9a5-4422-8b1b-ee71b300e8be": {
+      "ProjectGuid": "b41f2786-a9a5-4422-8b1b-ee71b300e8be",
+      "DisplayName": "ServiceBackendData",
+      "ColorIndex": 0
+    },
+    "8d5b8245-7be0-473b-8a22-f2c6913a73f1": {
+      "ProjectGuid": "8d5b8245-7be0-473b-8a22-f2c6913a73f1",
+      "DisplayName": "ServiceBacken.Connection",
+      "ColorIndex": 1
+    },
+    "7c4aa772-f264-45ee-923d-154b2dd692bb": {
+      "ProjectGuid": "7c4aa772-f264-45ee-923d-154b2dd692bb",
+      "DisplayName": "ServiceBackend.Entities",
+      "ColorIndex": 2
+    },
+    "6d34d575-d4ef-446f-b8a7-7f596d15bedf": {
+      "ProjectGuid": "6d34d575-d4ef-446f-b8a7-7f596d15bedf",
+      "DisplayName": "ServiceBackend.Context",
+      "ColorIndex": 3
+    },
+    "683ae4a3-51e4-432a-8f63-27df923f7798": {
+      "ProjectGuid": "683ae4a3-51e4-432a-8f63-27df923f7798",
+      "DisplayName": "ServiceBackend.Logic",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

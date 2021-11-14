@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServiceBackendData", ".", "{B41F2786-A9A5-4422-8B1B-EE71B300E8BE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		ProjectReferences = "{7c4aa772-f264-45ee-923d-154b2dd692bb}|ServiceBackend.Entities.dll;{6d34d575-d4ef-446f-b8a7-7f596d15bedf}|ServiceBackend.Context.dll;{683ae4a3-51e4-432a-8f63-27df923f7798}|ServiceBackend.Logic.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54580"
+		Debug.AspNetCompiler.PhysicalPath = "..\ServiceBackendData\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54580\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54580"
+		Release.AspNetCompiler.PhysicalPath = "..\ServiceBackendData\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54580\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54580"
+		SlnRelativePath = "..\ServiceBackendData\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBackend.Entities", "..\ServiceBackend.Entities\ServiceBackend.Entities.csproj", "{7C4AA772-F264-45EE-923D-154B2DD692BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBackend.Context", "..\ServiceBackend.Context\ServiceBackend.Context.csproj", "{6D34D575-D4EF-446F-B8A7-7F596D15BEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBackend.Logic", "..\ServiceBackend.Logic\ServiceBackend.Logic.csproj", "{683AE4A3-51E4-432A-8F63-27DF923F7798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41F2786-A9A5-4422-8B1B-EE71B300E8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41F2786-A9A5-4422-8B1B-EE71B300E8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41F2786-A9A5-4422-8B1B-EE71B300E8BE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41F2786-A9A5-4422-8B1B-EE71B300E8BE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{7C4AA772-F264-45EE-923D-154B2DD692BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4AA772-F264-45EE-923D-154B2DD692BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4AA772-F264-45EE-923D-154B2DD692BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4AA772-F264-45EE-923D-154B2DD692BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D34D575-D4EF-446F-B8A7-7F596D15BEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D34D575-D4EF-446F-B8A7-7F596D15BEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D34D575-D4EF-446F-B8A7-7F596D15BEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D34D575-D4EF-446F-B8A7-7F596D15BEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683AE4A3-51E4-432A-8F63-27DF923F7798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683AE4A3-51E4-432A-8F63-27DF923F7798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683AE4A3-51E4-432A-8F63-27DF923F7798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683AE4A3-51E4-432A-8F63-27DF923F7798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E3743B1-B0AA-4D59-B9D3-A1E6791486C7}
+	EndGlobalSection
+EndGlobal

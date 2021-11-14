@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7347a40-5050-40bf-9364-3970c769fb76": {
+      "ProjectGuid": "c7347a40-5050-40bf-9364-3970c769fb76",
+      "DisplayName": "TestServiceBackendData",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
